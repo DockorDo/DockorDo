@@ -7,4 +7,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DockorDo&hide=css,html,scss,less" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DockorDo&show_icons=true" />
 <br/>
-![](https://raw.githubusercontent.com/DockorDo/DockorDo/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/DockorDo/DockorDo/assets/github-contribution-grid-snake.svg" /></div>
