@@ -5,4 +5,5 @@
 - 一名Web前端爱好者
 - 联系方式:rguo9659@gmail.com
 
-![](https://raw.githubusercontent.com/DockorDo/DockorDo/main/assets/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/DockorDo/DockorDo/output/github-contribution-grid-snake.svg)
