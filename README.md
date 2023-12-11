@@ -7,4 +7,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DockorDo&hide=css,html,scss,less" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DockorDo&show_icons=true" />
 
-https://github.com/DockorDo/githubSNK/blob/output/github-contribution-grid-snake.svg
+![亮色](https://raw.githubusercontent.com/DockorDo/githubSNK/output/github-contribution-grid-snake.svg)
